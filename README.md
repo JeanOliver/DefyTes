@@ -1,2 +1,1 @@
-# DefyTes
-defy test = 1
+defy = 1
