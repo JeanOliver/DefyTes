@@ -1,3 +1,3 @@
 # DefyTes
 
-defy test = 1
+defy test = 0
