@@ -1,3 +1,3 @@
 # DefyTes
 
-depend = 1
+depend = 0
